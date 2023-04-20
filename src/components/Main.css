@@ -1,0 +1,152 @@
+.font1{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    
+}
+.font2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 24px;
+}
+
+
+.b_icon{
+    padding-left: 12vw;
+}
+.l_chart{
+    width:75vw;
+    height:36vh;
+    margin-top: 0.5rem;
+    border-radius: 1.25rem;
+}
+.today_sechedule{
+    height: 22vh;
+    padding-top: 1rem;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+    background-color: #FFFFFF;
+    border-radius: 1.25rem;
+}
+.sec_content{
+    margin-left: 2.6vw;
+}
+.sec_content1{
+    display: flex;
+    justify-content: space-between;
+}
+.sec_con1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+.sec_con2{
+    padding-right:2.6vw;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 0.75rem;
+    color: #858585;
+    
+}
+.to_di1{
+    display: flex;
+}
+.to_di2{
+    width: 3px;
+    height: 5.6vh;
+    background-color:#9BDD7C;
+    
+}
+.to_dii1{
+    display: flex;
+    margin-top: 1.8vh;
+}
+.to_dii2{
+    width: 3px;
+    height: 5.6vh;
+    background-color:#6972C3;
+}
+.para{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    color: #666666;
+}
+.paraa{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 0.8rem;
+    color:#999999;
+
+}
+
+.pie_content{
+    background-color: #FFFFFF;
+}
+.pie_chart{
+    width: 8.5rem;
+    height: 8.5rem;
+    margin-left: 3rem;
+    padding-bottom: 1rem;
+    
+}
+.pie_con{
+    display: flex;
+    gap: 5vw;
+}
+.btt1{
+    display: flex;
+    /* align-items: center; */
+    gap: 10px;
+    align-items: center;
+    padding:0;
+}
+.bt1{
+    height: 10px;
+    width: 10px;
+    background-color: #98D89E;
+    border-radius: 50px;
+}
+
+.to_po{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    margin-left: 3vw;
+}
+.too_po{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color:  #858585;
+    margin-right: 3.6vw;
+
+}
+.ch_acti{
+    color:  #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+.ch_actii{
+    color: #858585;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 0.75rem;
+}
+.ch_down{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #858585;
+}
+.pa_up{
+    
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #000000;
+    font-size: 0.8rem;
+}
+
+

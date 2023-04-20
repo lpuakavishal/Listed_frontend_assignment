@@ -1,0 +1,87 @@
+.l_board{
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 4.7rem;
+}
+.sing_1{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size:2.25rem;
+}
+.sing_1_1{
+    color:  #000000;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+.span_1{
+    
+    height: 4vh;
+    width: 11.72vw;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    gap:8px;
+}
+.g_bar{
+    display: flex;
+    gap: 20px;
+    margin-top: 25px;
+}
+.span_1t{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #858585;
+    font-size: 0.75rem;
+}
+.lo_box{
+    height: 40vh;
+    width: 24.85vw;
+    margin-top: 3.15vh;
+    border-radius: 20px;
+}
+.lo_input{
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    height: 5vh;
+    width: 21.15vw;
+    margin-top: 10px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #000000;
+}
+.fo_lo_input{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #346BD5;
+    font-size: 1rem;
+}
+.lo_button{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+
+}
+.bu_div{
+    height: 5vh;
+    width:21.15vw;
+    background-color: #000000;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+     
+}
+.lo_button{
+    margin-top:0.5rem;
+    color:#F5F5F5;
+    
+}
+.ou_div{
+    color: #858585;
+}
+.ou_div1{
+    color: #346BD4;
+}

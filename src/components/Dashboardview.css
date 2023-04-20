@@ -1,0 +1,32 @@
+.dashview{
+    margin-top: 3%;
+    margin-left: 3rem;
+    justify-content:space-between;
+    
+}
+.dash1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.8rem;
+    color: #000000;
+}
+.dash2{
+    display: flex;
+    margin-right: 3%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:0.8rem;
+    position:relative;
+}
+.iconSearch{
+    position:absolute;
+    right:5rem; 
+    color:#878585dd;
+}
+.img{
+    width:2rem;
+    height:2rem;
+    border-radius:50%;
+    object-fit: fill;
+}
